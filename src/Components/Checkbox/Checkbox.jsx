@@ -11,7 +11,8 @@ function Checkbox(props) {
   };
 
   return (
-    <img
+    <img 
+      className="icon"
       style={{ marginBottom: isChecked ? "3px" : "" }}
       src={isChecked ? CheckedIcon : EmptyIcon}
       onClick={onClickCheckbox}
