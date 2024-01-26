@@ -5,6 +5,14 @@
 Aplicação desenvolvida para listar e visualizar tarefas, com o objetivo de colocar em práticas a biblioteca de desenvolvimento de interfaces React JS.
 
 
+### Visualizar o resultado:
+https://desafio4-dnc.netlify.app/
+
+
+### Como usar:
+Há 1 tarefa pré-definida como exemplo que você pode usar para apagar, editar ou mudar o status para testar, além de adicionar suas próprias tarefas.
+
+
 ### Tecnologias 🚀
 
 - Javascript
